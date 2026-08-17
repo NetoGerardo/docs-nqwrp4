@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-nh46za.radarsatu88.sbs/sitemap.xml
